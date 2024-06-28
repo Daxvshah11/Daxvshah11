@@ -3,4 +3,8 @@
 ## _Let's Connect_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-shah-dx11/)
 
+## 📈 GitHub Stats
+![Dx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daxvshah11&show_icons=true&theme=radical)
+
+
 ### Below are some of the Key Repos that I have worked on and contributed to....
