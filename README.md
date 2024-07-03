@@ -9,20 +9,20 @@ $&nbsp$
 $&nbsp$
 
 ## 📊 GitHub Stats
-- ***2023*** ![Contributions 2023](https://img.shields.io/badge/Contributions-273-brightgreen)
-- ***2024 (so far)*** ![Contributions 2024](https://img.shields.io/badge/Contributions-105-blue)
+- ***2023 :*** ![Contributions_2023](https://img.shields.io/badge/273_Contris-pink)
+- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/111_Contris-pink)
 
 $&nbsp$
 $&nbsp$
 $&nbsp$
 
 ## 🎯 Repo Contris (Organisational)
-[![Contributions](https://img.shields.io/badge/Contributions-SERC%20NFS%20Repo-blue)](https://github.com/serc-courses/final-project-021)\
-[![Contributions](https://img.shields.io/badge/Contributions-SERC%20MP3-blue)](https://github.com/serc-courses/mini-project-3-Daxvshah11)\
-[![Contributions](https://img.shields.io/badge/Contributions-SERC%20MP2-blue)](https://github.com/serc-courses/mini-project-2-Daxvshah11)\
-[![Contributions](https://img.shields.io/badge/Contributions-SERC%20MP1-blue)](https://github.com/serc-courses/mini-project-1-Daxvshah11)\
-[![Contributions](https://img.shields.io/badge/Contributions-SERC%20MP0-blue)](https://github.com/serc-courses/mini-project-0-Daxvshah11)
+[![Contributions](https://img.shields.io/badge/SERC-Network%20File%20System-blue)](https://github.com/serc-courses/final-project-021)\
+[![Contributions](https://img.shields.io/badge/SERC-MP3-blue)](https://github.com/serc-courses/mini-project-3-Daxvshah11)\
+[![Contributions](https://img.shields.io/badge/SERC-MP2-blue)](https://github.com/serc-courses/mini-project-2-Daxvshah11)\
+[![Contributions](https://img.shields.io/badge/SERC-MP1-blue)](https://github.com/serc-courses/mini-project-1-Daxvshah11)\
+[![Contributions](https://img.shields.io/badge/SERC-MP0-blue)](https://github.com/serc-courses/mini-project-0-Daxvshah11)
 
 
 
-### !Pinned Below! -- _some of the Highlight Repos that I have worked on!_
+### ! Pinned Below ! -- _some of the Highlight Repos that I have worked on!_
