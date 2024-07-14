@@ -9,8 +9,8 @@ $&nbsp$
 $&nbsp$
 
 ## 📊 GitHub Stats
-- ***2023 :*** ![Contributions_2023](https://img.shields.io/badge/273_Contris-pink)
-- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/111_Contris-pink)
+- ***2023 :*** ![Contributions_2023](https://img.shields.io/badge/261_Contris-pink)
+- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/128_Contris-pink)
 
 $&nbsp$
 $&nbsp$
