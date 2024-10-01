@@ -4,17 +4,10 @@
 ## Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-shah-dx11/)
 
-$&nbsp$
-$&nbsp$
-$&nbsp$
 
 ## 📊 GitHub Stats
 - ***2023 :*** ![Contributions_2023](https://img.shields.io/badge/261_Contris-pink)
-- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/128_Contris-pink)
-
-$&nbsp$
-$&nbsp$
-$&nbsp$
+- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/170_Contris-pink)
 
 ## 🎯 Repo Contris (Organisational)
 [![Contributions](https://img.shields.io/badge/SERC-Network%20File%20System-blue)](https://github.com/serc-courses/final-project-021)\
