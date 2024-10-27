@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 - ***2023 :*** ![Contributions_2023](https://img.shields.io/badge/261_Contris-pink)
-- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/170_Contris-pink)
+- ***2024 :*** ![Contributions_2024](https://img.shields.io/badge/195_Contris-pink)
 
 ## 🎯 Repo Contris (Organisational)
 [![Contributions](https://img.shields.io/badge/SERC-Network%20File%20System-blue)](https://github.com/serc-courses/final-project-021)\
